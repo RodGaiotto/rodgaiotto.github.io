@@ -1,0 +1,14 @@
+site_name: Static Documentation Project
+
+theme:
+  name: material
+  palette:
+    primary: orange
+
+plugins:
+- search
+- i18n:
+    default_language: en
+    languages:
+      en: English
+      pt: Portuguese
